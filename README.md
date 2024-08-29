@@ -12,8 +12,10 @@ This is an Android application that fetches and displays real-time cryptocurrenc
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Search](screenshots/search.png)
+![Screenshot_20240829_215427](https://github.com/user-attachments/assets/0026edd3-dc12-426c-b976-3ab114f6e5ef)
+
+![Screenshot_20240829_215454](https://github.com/user-attachments/assets/0a5bc852-fa23-4afa-addb-4d77992d3553)
+
 
 ## Installation
 
@@ -57,5 +59,3 @@ Contributions are welcome! Please create a pull request or open an issue for any
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-Replace the `yourusername` in the clone URL with your GitHub username, and ensure you add screenshots in the `screenshots` directory if you include them in the README.
